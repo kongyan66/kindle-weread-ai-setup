@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+backups/
+downloads/
+private/
+dist/
+*.log
+*.zip
+*.exe
+*.bin
+*.pem
+.env
+.DS_Store
+tests/.tmp/

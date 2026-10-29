@@ -1,0 +1,17 @@
+{
+  "recorded_date": "2026-10-28",
+  "springbreak": {
+    "repository": "https://github.com/KindleModding/SpringBreak",
+    "guide": "https://kindlemodding.org/jailbreaking/SpringBreak/",
+    "version": "v1.2",
+    "url": "https://github.com/KindleModding/SpringBreak/releases/download/v1.2/springbreak.zip",
+    "sha256": "2880cbf765c57c3142f44d2339c4a3c70e3322a0e910f0ed2f698077078315f2",
+    "example_device": "Paperwhite 4 / firmware 5.18.1.1.1",
+    "redistributed": false
+  },
+  "weread": {
+    "example_version": "0.3.6-rc.4",
+    "source": "User-supplied author distribution ZIP; no download URL or redistribution license supplied",
+    "redistributed": false
+  }
+}
